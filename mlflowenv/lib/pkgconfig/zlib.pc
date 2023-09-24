@@ -1,0 +1,13 @@
+prefix=/home/mahmoud/Desktop/MLFLow/mlflowenv
+exec_prefix=/home/mahmoud/Desktop/MLFLow/mlflowenv
+libdir=/home/mahmoud/Desktop/MLFLow/mlflowenv/lib
+sharedlibdir=/home/mahmoud/Desktop/MLFLow/mlflowenv/lib
+includedir=/home/mahmoud/Desktop/MLFLow/mlflowenv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
