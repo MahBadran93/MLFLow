@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: test-mlflow
+Version: 0.0.1
+Summary: mlops project structure (testing and deployment with CD/CI pipeline)
+Author: mahmoud
+Author-email: mahmoud.s.badran@gmail.com
