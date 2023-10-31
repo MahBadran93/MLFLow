@@ -12,7 +12,7 @@ application = Flask(__name__)
 app = application
 
 ## home page routing
-
+## test
 @app.route('/')
 def index():
     return render_template('index.html')
