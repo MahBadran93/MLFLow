@@ -4,3 +4,11 @@ Version: 0.0.1
 Summary: mlops project structure (testing and deployment with CD/CI pipeline)
 Author: mahmoud
 Author-email: mahmoud.s.badran@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: Flask
+Requires-Dist: dill
