@@ -13,7 +13,7 @@ app = application
 
 ## home page routing
 
-## testcomplete
+## testcomplete - new main test
 
 @app.route('/')
 def index():
